@@ -1,0 +1,14 @@
+%No-Function %No-Demand %No-Virtual-Node %No-Virtual-Edge %no-Old-Demand
+
+%required-Resources-for-each-Function
+
+%demand (id, source,destination,bandwidth,arrival-Time,{set-Of-Ordered-Functions})
+
+%BandwidthCost
+
+%available-Resources %cost-Per-Unit-Resource
+...
+
+%Matrix for available bandwidth among edges.
+...
+%id-Old-Demand;%bw-Old-Demand;%cost-Old-Demand;%arriveTime;%source;%destination,%set of function, %Path ;%Location (2 3,4 5,6 7)

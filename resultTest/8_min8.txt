@@ -1,0 +1,146 @@
+function:1 node: 1 quantity: 4
+function:1 node: 2 quantity: 5
+function:1 node: 3 quantity: 5
+function:1 node: 4 quantity: 1
+function:1 node: 6 quantity: 5
+function:1 node: 8 quantity: 5
+function:1 node: 10 quantity: 6
+function:1 node: 11 quantity: 4
+function:2 node: 1 quantity: 1
+function:2 node: 2 quantity: 8
+function:2 node: 3 quantity: 7
+function:2 node: 6 quantity: 7
+function:2 node: 8 quantity: 7
+function:2 node: 10 quantity: 7
+function:2 node: 11 quantity: 1
+function:3 node: 2 quantity: 3
+function:3 node: 3 quantity: 4
+function:3 node: 4 quantity: 1
+function:3 node: 6 quantity: 4
+function:3 node: 8 quantity: 4
+function:3 node: 10 quantity: 4
+function:3 node: 13 quantity: 2
+function:3 node: 14 quantity: 1
+function:3 node: 15 quantity: 2
+function:3 node: 16 quantity: 2
+function:3 node: 17 quantity: 2
+function:3 node: 18 quantity: 2
+function:3 node: 19 quantity: 2
+function:3 node: 20 quantity: 2
+function:4 node: 1 quantity: 3
+function:4 node: 2 quantity: 3
+function:4 node: 3 quantity: 3
+function:4 node: 4 quantity: 3
+function:4 node: 5 quantity: 3
+function:4 node: 6 quantity: 4
+function:4 node: 7 quantity: 2
+function:4 node: 8 quantity: 3
+function:4 node: 9 quantity: 2
+function:4 node: 10 quantity: 3
+function:4 node: 11 quantity: 3
+function:4 node: 12 quantity: 3
+function:5 node: 1 quantity: 3
+function:5 node: 2 quantity: 3
+function:5 node: 3 quantity: 3
+function:5 node: 4 quantity: 4
+function:5 node: 5 quantity: 3
+function:5 node: 6 quantity: 2
+function:5 node: 7 quantity: 4
+function:5 node: 8 quantity: 3
+function:5 node: 9 quantity: 4
+function:5 node: 10 quantity: 2
+function:5 node: 11 quantity: 3
+function:5 node: 12 quantity: 3
+Cost for function: 656.09
+demand: 1
+[26, 15, 8, ], [8, 8, ], [8, 8, ], [8, 3, 12, 20, 35, ], 
+demand: 4
+[29, 17, 9, ], [9, 1, ], [1, 1, ], [1, 11, 20, 35, ], 
+demand: 11
+[21, 13, 6, ], [6, 6, ], [6, 6, ], [6, 6, ], [6, 6, ], [6, 3, 10, 17, 29, ], 
+demand: 15
+[21, 13, ], [13, 6, ], [6, 6, ], [6, 3, 12, 20, 35, ], 
+demand: 16
+[26, 15, 7, ], [7, 7, ], [7, 1, ], [1, 5, 2, ], [2, 2, ], [2, 11, 20, 35, ], 
+demand: 17
+[33, 19, 11, ], [11, 2, ], [2, 2, ], [2, 2, ], [2, 7, 15, 25, ], 
+demand: 19
+[23, 14, 6, ], [6, 6, ], [6, 6, ], [6, 3, ], [3, 6, 13, 22, ], 
+demand: 20
+[24, 14, 6, ], [6, 6, ], [6, 3, ], [3, 10, 18, 32, ], 
+demand: 22
+[36, 20, 11, ], [11, 11, ], [11, 11, ], [11, 1, 9, 17, 29, ], 
+demand: 23
+[22, 13, 6, ], [6, 6, ], [6, 6, ], [6, 3, ], [3, 8, 15, 26, ], 
+demand: 25
+[29, 17, ], [17, 9, ], [9, 1, ], [1, 5, 2, ], [2, 2, ], [2, 9, 18, 32, ], 
+demand: 36
+[22, 13, ], [13, 5, ], [5, 1, ], [1, 5, 2, ], [2, 2, ], [2, 9, 17, 30, ], 
+demand: 42
+[24, 14, 5, ], [5, 2, ], [2, 2, ], [2, 2, ], [2, 11, 19, 34, ], 
+demand: 44
+[36, 20, 11, ], [11, 19, ], [19, 11, 2, ], [2, 2, ], [2, 11, 19, 34, ], 
+demand: 45
+[31, 18, ], [18, 9, ], [9, 2, ], [2, 2, ], [2, 2, ], [2, 5, 13, 21, ], 
+demand: 6
+[21, 13, 5, ], [5, 14, ], [14, 6, ], [6, 14, 23, ], 
+demand: 9
+[24, 14, 6, ], [6, 4, ], [4, 4, ], [4, 10, 17, 29, ], 
+demand: 28
+[29, 17, 9, ], [9, 2, ], [2, 2, ], [2, 2, ], [2, 7, 15, ], [15, 8, 3, 6, 13, 22, ], 
+demand: 29
+[22, 13, 6, ], [6, 6, ], [6, 6, ], [6, 3, ], [3, 8, ], [8, 3, 12, 20, 35, ], 
+demand: 30
+[22, 13, 5, ], [5, 5, ], [5, 13, 6, ], [6, 13, 21, ], 
+demand: 35
+[35, 20, 11, ], [11, 11, ], [11, 1, ], [1, 5, 2, ], [2, 7, 15, ], [15, 8, 3, 6, 13, 21, ], 
+demand: 37
+[35, 20, 12, ], [12, 12, ], [12, 3, ], [3, 3, ], [3, 3, ], [3, 10, 18, 32, ], 
+demand: 38
+[33, 19, 11, ], [11, 19, ], [19, 12, 3, ], [3, 8, ], [8, 15, 25, ], 
+demand: 13
+[22, 13, 5, ], [5, 1, ], [1, 7, 16, ], [16, 8, ], [8, 3, 12, 19, 34, ], 
+demand: 43
+[21, 13, 6, 3, ], [3, 3, ], [3, 3, ], [3, 3, ], [3, 10, ], [10, 17, 30, ], 
+demand: 14
+[31, 18, 10, ], [10, 10, ], [10, 10, ], [10, 10, ], [10, 10, ], [10, 3, 8, 16, 28, ], 
+demand: 27
+[35, 20, 12, ], [12, 3, ], [3, 3, ], [3, 3, ], [3, 12, ], [12, 3, 8, 15, 26, ], 
+demand: 8
+[28, 16, ], [16, 7, ], [7, 15, 8, ], [8, 8, ], [8, 3, 10, 17, 29, ], 
+demand: 12
+[25, 15, 8, ], [8, 8, ], [8, 8, ], [8, 16, 27, ], 
+demand: 10
+[31, 18, ], [18, 10, ], [10, 10, ], [10, 3, 6, 14, 24, ], 
+demand: 39
+[28, 16, 8, ], [8, 8, ], [8, 8, ], [8, 8, ], [8, 4, ], [4, 6, 13, 21, ], 
+demand: 32
+[24, 14, 5, 1, ], [1, 9, 17, ], [17, 10, ], [10, 10, ], [10, 10, ], [10, 3, 6, 13, 22, ], 
+demand: 33
+[36, 20, 11, ], [11, 1, ], [1, 11, 20, ], [20, 12, 3, ], [3, 3, ], [3, 10, 17, 30, ], 
+demand: 34
+[30, 17, 9, 1, ], [1, 11, 20, ], [20, 11, ], [11, 1, 7, 16, 27, ], 
+demand: 21
+[21, 13, 6, ], [6, 3, ], [3, 3, ], [3, 12, ], [12, 20, 35, ], 
+demand: 7
+[27, 16, 8, ], [8, 8, ], [8, 4, ], [4, 8, ], [8, 3, 12, 19, 34, ], 
+demand: 5
+[21, 13, 6, 3, ], [3, 12, ], [12, 3, ], [3, 6, 13, 22, ], 
+demand: 18
+[25, 15, 8, ], [8, 8, ], [8, 3, ], [3, 6, 4, ], [4, 4, ], [4, 6, 13, 21, ], 
+demand: 31
+[26, 15, 8, ], [8, 4, ], [4, 8, ], [8, 3, 6, 14, 24, ], 
+demand: 40
+[25, 15, 7, 2, ], [2, 7, ], [7, 15, 8, 4, ], [4, 12, 20, 36, ], 
+demand: 41
+[29, 17, 9, 1, ], [1, 9, 17, 10, ], [10, 10, ], [10, 17, 9, ], [9, 1, 5, 14, 24, ], 
+demand: 24
+[29, 17, 9, ], [9, 17, 10, ], [10, 10, ], [10, 10, ], [10, 18, 31, ], 
+demand: 3
+[33, 19, 11, ], [11, 1, 9, 17, 10, ], [10, 3, 8, 15, 7, ], [7, 1, 5, 13, 21, ], 
+demand: 26
+[33, 19, 12, 3, 10, ], [10, 10, ], [10, 4, ], [4, 10, ], [10, 3, 6, 14, 24, ], 
+demand: 2
+[32, 18, 10, ], [10, 3, 8, 15, 7, ], [7, 1, 9, 17, 10, ], [10, 3, 6, 13, 22, ], 
+Value solution: 1102.6198923947263
+Runtime (mS): 163Value Bandwidth: 587.4000000000009Resource ultilization: 2482519.6061280323

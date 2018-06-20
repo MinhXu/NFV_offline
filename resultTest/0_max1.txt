@@ -1,0 +1,36 @@
+function:1 node: 7 quantity: 3
+function:1 node: 19 quantity: 3
+function:2 node: 7 quantity: 1
+function:2 node: 13 quantity: 3
+function:2 node: 16 quantity: 3
+function:2 node: 20 quantity: 3
+function:3 node: 9 quantity: 5
+function:3 node: 23 quantity: 2
+function:4 node: 4 quantity: 5
+function:4 node: 23 quantity: 4
+function:5 node: 4 quantity: 4
+function:5 node: 7 quantity: 1
+function:5 node: 17 quantity: 4
+Cost for function: 28.93
+demand: 2
+[21, 13, ], [13, 6, 4, ], [4, 12, 19, ], [19, 12, 4, ], [4, 12, 20, 36, ], 
+demand: 4
+[21, 13, ], [13, 5, 14, 23, ], [23, 14, 6, 4, ], [4, 4, ], [4, 12, 20, 35, ], 
+demand: 8
+[35, 20, ], [20, 12, 4, ], [4, 4, ], [4, 10, 18, 31, ], 
+demand: 3
+[34, 19, 12, 4, ], [4, 6, 14, 23, ], [23, 14, 5, 13, ], [13, 5, 1, 11, 19, 33, ], 
+demand: 10
+[27, 16, 7, 1, 9, ], [9, 1, 7, ], [7, 15, 8, 4, ], [4, 4, ], [4, 8, 16, ], [16, 8, 3, 10, 17, 30, ], 
+demand: 6
+[21, 13, 5, 1, 9, ], [9, 1, 7, ], [7, 7, ], [7, 7, ], [7, 16, 27, ], 
+demand: 7
+[26, 15, 8, 3, 10, 17, ], [17, 10, 3, 8, 16, ], [16, 7, 1, 9, ], [9, 1, 7, ], [7, 1, 5, 14, 23, ], [23, 14, 5, 13, 21, ], 
+demand: 1
+[25, 15, 7, 16, ], [16, 8, 3, 10, 17, ], [17, 10, 3, 6, 14, 23, ], [23, 14, 5, 1, 11, 20, 35, ], 
+demand: 9
+[21, 13, 5, 1, 11, 20, ], [20, 11, 1, 9, 17, ], [17, 9, 1, 11, 19, ], [19, 11, 1, 9, ], [9, 1, 5, 14, 23, ], [23, 14, 5, 1, 11, 20, 35, ], 
+demand: 5
+[28, 16, 8, 3, 10, 17, ], [17, 9, ], [9, 1, 5, 14, 23, ], [23, 14, 5, 1, 11, 19, ], [19, 11, 20, ], [20, 12, 3, 6, 13, 22, ], 
+Value solution: 310.3527847309861
+Runtime (mS): 227Value Bandwidth: 271.0399999999994Resource ultilization: 2493170.5881294496

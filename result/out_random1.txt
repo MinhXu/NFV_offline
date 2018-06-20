@@ -1,0 +1,96 @@
+25, 89, 21, 
+21, 85, 9, 81, 1, 
+1, 97, 17, 89, 
+89, 17, 69, 20, 100, 52, 
+58, 106, 26, 90, 22, 
+22, 70, 23, 91, 27, 107, 
+107, 27, 71, 25, 89, 17, 
+17, 85, 21, 101, 53, 
+30, 110, 
+110, 14, 82, 6, 66, 
+66, 7, 103, 39, 95, 27, 
+27, 91, 19, 99, 3, 65, 
+65, 1, 81, 13, 
+51, 99, 19, 87, 11, 
+11, 67, 10, 86, 18, 
+18, 86, 10, 82, 
+82, 6, 66, 8, 104, 
+104, 40, 74, 38, 94, 34, 
+34, 98, 2, 
+40, 74, 39, 95, 27, 107, 59, 
+59, 79, 60, 108, 28, 
+28, 71, 27, 107, 11, 83, 
+83, 15, 68, 16, 112, 64, 
+64, 80, 62, 110, 14, 82, 2, 
+46, 110, 14, 
+14, 68, 16, 112, 64, 
+64, 112, 32, 92, 20, 
+20, 88, 12, 108, 60, 
+60, 79, 59, 107, 27, 91, 31, 
+31, 91, 27, 
+4, 65, 2, 98, 18, 90, 26, 
+26, 71, 28, 96, 36, 100, 52, 
+52, 100, 36, 96, 32, 72, 
+72, 29, 109, 13, 81, 
+81, 1, 65, 4, 
+4, 100, 20, 92, 28, 
+54, 78, 55, 103, 23, 87, 
+87, 15, 
+15, 111, 31, 
+31, 72, 32, 112, 
+112, 16, 68, 13, 
+63, 111, 31, 95, 35, 99, 
+99, 35, 95, 27, 107, 43, 
+43, 75, 44, 108, 28, 92, 20, 100, 
+100, 36, 96, 28, 
+33, 73, 34, 94, 30, 
+30, 72, 29, 109, 
+109, 13, 81, 5, 66, 
+66, 7, 103, 55, 
+55, 78, 56, 104, 8, 84, 16, 
+16, 68, 13, 85, 17, 89, 25, 
+function:1 node: 1 quantity: 1
+function:1 node: 18 quantity: 1
+function:1 node: 20 quantity: 1
+function:1 node: 26 quantity: 1
+function:1 node: 27 quantity: 1
+function:1 node: 83 quantity: 1
+function:1 node: 99 quantity: 1
+function:1 node: 107 quantity: 1
+function:1 node: 109 quantity: 1
+function:1 node: 112 quantity: 1
+function:2 node: 16 quantity: 1
+function:2 node: 31 quantity: 1
+function:2 node: 59 quantity: 1
+function:2 node: 64 quantity: 1
+function:2 node: 65 quantity: 1
+function:2 node: 72 quantity: 1
+function:2 node: 104 quantity: 1
+function:3 node: 14 quantity: 1
+function:3 node: 15 quantity: 1
+function:3 node: 17 quantity: 1
+function:3 node: 21 quantity: 1
+function:3 node: 66 quantity: 1
+function:3 node: 81 quantity: 1
+function:3 node: 82 quantity: 1
+function:4 node: 4 quantity: 1
+function:4 node: 11 quantity: 1
+function:4 node: 22 quantity: 1
+function:4 node: 31 quantity: 1
+function:4 node: 43 quantity: 1
+function:4 node: 55 quantity: 1
+function:4 node: 64 quantity: 1
+function:4 node: 89 quantity: 1
+function:4 node: 110 quantity: 1
+function:5 node: 28 quantity: 1
+function:5 node: 30 quantity: 1
+function:5 node: 34 quantity: 1
+function:5 node: 52 quantity: 1
+function:5 node: 60 quantity: 1
+function:5 node: 66 quantity: 1
+function:5 node: 87 quantity: 1
+function:5 node: 100 quantity: 1
+Cost for function: 377.5199999999999
+Value solution: 550.7799999999999
+Value bandwidth: 346.7199999999994
+Runtime (mS): 89

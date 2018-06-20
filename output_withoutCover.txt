@@ -1,0 +1,7 @@
+withoutCover1.txt 5 50 50 100 0.0 0
+withoutCover1.txt 5 50 50 100 0.0 0
+withoutCover1.txt 5 50 50 100 0.0 0
+withoutCover1.txt 5 50 50 100 0.0 0
+withoutCover1.txt 5 8 50 100 14.237199999999994 0
+withoutCover5.txt 5 10 50 100 0.3008196721311475 0
+withoutCover5.txt 5 10 50 100 0.3008196721311475 0

@@ -1,0 +1,44 @@
+5, 11, 6, 18, 18, 6, 16, 8, 12, 12, 7, 15, 5, 5, 11, 6, 18, 2, 9, 1, 
+6, 11, 5, 5, 11, 6, 18, 18, 6, 16, 8, 12, 12, 7, 15, 5, 11, 6, 18, 2, 
+1, 9, 2, 18, 18, 6, 11, 5, 5, 15, 7, 12, 12, 8, 16, 6, 18, 6, 11, 5, 
+1, 9, 2, 18, 18, 6, 11, 5, 5, 15, 7, 12, 12, 7, 15, 5, 11, 6, 16, 8, 20, 4, 
+2, 14, 4, 20, 8, 12, 12, 7, 15, 5, 5, 11, 6, 18, 18, 6, 16, 8, 12, 7, 
+1, 13, 13, 3, 19, 7, 12, 12, 8, 8, 12, 7, 7, 19, 3, 10, 4, 20, 8, 
+3, 10, 10, 4, 14, 14, 4, 10, 3, 3, 10, 10, 4, 14, 2, 
+2, 14, 14, 4, 10, 10, 3, 13, 1, 17, 5, 
+2, 14, 14, 4, 10, 10, 3, 3, 13, 3, 19, 7, 
+7, 12, 8, 8, 16, 6, 11, 11, 5, 15, 7, 7, 12, 8, 12, 7, 15, 5, 17, 1, 
+function:1 node: 3 quantity: 1
+function:1 node: 5 quantity: 1
+function:1 node: 10 quantity: 1
+function:1 node: 11 quantity: 1
+function:1 node: 12 quantity: 1
+function:1 node: 14 quantity: 1
+function:1 node: 18 quantity: 3
+function:2 node: 5 quantity: 1
+function:2 node: 7 quantity: 1
+function:2 node: 10 quantity: 1
+function:2 node: 12 quantity: 1
+function:2 node: 13 quantity: 1
+function:2 node: 18 quantity: 2
+function:3 node: 3 quantity: 1
+function:3 node: 8 quantity: 2
+function:3 node: 10 quantity: 1
+function:3 node: 12 quantity: 1
+function:3 node: 14 quantity: 1
+function:3 node: 18 quantity: 1
+function:4 node: 5 quantity: 3
+function:4 node: 7 quantity: 1
+function:4 node: 12 quantity: 1
+function:4 node: 13 quantity: 1
+function:4 node: 14 quantity: 2
+function:4 node: 18 quantity: 1
+function:5 node: 3 quantity: 2
+function:5 node: 5 quantity: 2
+function:5 node: 8 quantity: 1
+function:5 node: 10 quantity: 1
+function:5 node: 12 quantity: 3
+cost for function:88.48000000000002
+Value solution: 262.23467128429763
+Value bandwidth: 180.83999999999978
+Runtime (mS): 37

@@ -1,0 +1,39 @@
+62, 80, 61, 61, 80, 64, 112, 32, 92, 92, 24, 70, 23, 91, 27, 107, 43, 
+52, 100, 20, 92, 92, 24, 70, 70, 23, 103, 39, 39, 95, 27, 107, 43, 75, 75, 44, 108, 28, 92, 32, 112, 48, 
+35, 95, 39, 39, 74, 40, 104, 24, 92, 92, 32, 96, 40, 
+35, 95, 39, 39, 95, 27, 107, 43, 75, 75, 43, 107, 27, 95, 31, 72, 30, 110, 14, 
+40, 74, 37, 93, 29, 109, 61, 61, 109, 45, 76, 76, 48, 112, 32, 96, 40, 104, 56, 
+20, 69, 17, 85, 13, 109, 61, 61, 109, 45, 76, 76, 48, 112, 32, 72, 31, 95, 35, 99, 3, 
+31, 95, 95, 39, 74, 38, 38, 94, 26, 106, 42, 75, 75, 43, 107, 27, 95, 39, 
+38, 74, 37, 37, 101, 21, 21, 85, 17, 69, 19, 99, 35, 
+7, 66, 5, 81, 81, 1, 97, 97, 49, 77, 77, 50, 98, 18, 69, 17, 89, 25, 
+18, 69, 69, 18, 98, 98, 50, 77, 50, 98, 18, 86, 10, 106, 42, 
+function:1 node: 37 quantity: 1
+function:1 node: 39 quantity: 2
+function:1 node: 77 quantity: 2
+function:1 node: 92 quantity: 2
+function:2 node: 32 quantity: 1
+function:2 node: 38 quantity: 1
+function:2 node: 61 quantity: 1
+function:2 node: 70 quantity: 1
+function:2 node: 97 quantity: 1
+function:3 node: 21 quantity: 1
+function:3 node: 32 quantity: 2
+function:3 node: 70 quantity: 1
+function:3 node: 75 quantity: 1
+function:3 node: 76 quantity: 1
+function:3 node: 95 quantity: 2
+function:3 node: 98 quantity: 2
+function:4 node: 39 quantity: 1
+function:4 node: 61 quantity: 2
+function:4 node: 69 quantity: 1
+function:4 node: 76 quantity: 1
+function:4 node: 81 quantity: 1
+function:4 node: 95 quantity: 1
+function:5 node: 69 quantity: 1
+function:5 node: 75 quantity: 2
+function:5 node: 92 quantity: 2
+cost for function:16.369999999999997
+Value solution: 252.92701592826702
+Value bandwidth: 229.67999999999958
+Runtime (mS): 548

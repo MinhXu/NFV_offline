@@ -1,0 +1,52 @@
+25, 71, 26, 26, 71, 27, 91, 91, 23, 70, 21, 70, 24, 88, 20, 100, 52, 
+58, 106, 26, 26, 71, 27, 91, 91, 23, 70, 21, 101, 53, 
+30, 72, 32, 32, 72, 31, 91, 91, 23, 70, 21, 21, 89, 29, 109, 13, 
+51, 77, 52, 100, 100, 36, 36, 73, 33, 97, 97, 1, 1, 65, 4, 100, 4, 65, 2, 
+40, 104, 56, 56, 78, 55, 55, 78, 53, 101, 21, 21, 89, 17, 69, 18, 98, 2, 
+46, 76, 47, 47, 76, 46, 110, 110, 14, 14, 68, 68, 14, 110, 30, 72, 31, 95, 27, 
+4, 65, 1, 1, 97, 97, 33, 73, 36, 36, 100, 100, 4, 65, 1, 65, 4, 100, 36, 96, 28, 
+54, 78, 56, 56, 78, 55, 55, 78, 53, 101, 21, 21, 89, 29, 109, 13, 
+63, 80, 80, 64, 64, 80, 63, 80, 64, 112, 32, 92, 28, 
+33, 73, 36, 36, 100, 100, 4, 65, 1, 1, 97, 97, 33, 73, 36, 73, 33, 93, 25, 
+function:1 node: 1 quantity: 1
+function:1 node: 14 quantity: 1
+function:1 node: 21 quantity: 2
+function:1 node: 36 quantity: 1
+function:1 node: 80 quantity: 1
+function:1 node: 89 quantity: 1
+function:1 node: 91 quantity: 2
+function:1 node: 100 quantity: 1
+function:2 node: 1 quantity: 1
+function:2 node: 21 quantity: 1
+function:2 node: 36 quantity: 2
+function:2 node: 56 quantity: 1
+function:2 node: 89 quantity: 1
+function:2 node: 110 quantity: 1
+function:3 node: 1 quantity: 1
+function:3 node: 21 quantity: 1
+function:3 node: 26 quantity: 1
+function:3 node: 47 quantity: 1
+function:3 node: 55 quantity: 1
+function:3 node: 97 quantity: 1
+function:3 node: 100 quantity: 1
+function:4 node: 1 quantity: 1
+function:4 node: 21 quantity: 1
+function:4 node: 26 quantity: 1
+function:4 node: 32 quantity: 1
+function:4 node: 64 quantity: 1
+function:4 node: 89 quantity: 1
+function:4 node: 97 quantity: 1
+function:4 node: 100 quantity: 1
+function:4 node: 110 quantity: 1
+function:5 node: 36 quantity: 1
+function:5 node: 55 quantity: 1
+function:5 node: 56 quantity: 1
+function:5 node: 63 quantity: 1
+function:5 node: 68 quantity: 1
+function:5 node: 91 quantity: 1
+function:5 node: 97 quantity: 1
+function:5 node: 100 quantity: 1
+cost for function:68.88000000000001
+Value solution: 218.6836186197544
+Value bandwidth: 151.35999999999993
+Runtime (mS): 469

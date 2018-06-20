@@ -1,0 +1,163 @@
+62, 80, 80, 64, 64, 80, 63, 80, 64, 112, 32, 96, 40, 
+10, 67, 11, 11, 83, 15, 68, 68, 14, 14, 110, 110, 14, 68, 15, 
+54, 78, 56, 56, 78, 55, 55, 78, 53, 101, 21, 21, 89, 89, 25, 71, 26, 94, 38, 
+58, 106, 26, 26, 71, 27, 91, 91, 23, 70, 21, 21, 89, 29, 72, 31, 
+5, 81, 1, 1, 97, 97, 33, 73, 36, 36, 100, 36, 73, 34, 
+38, 94, 26, 26, 71, 27, 91, 91, 23, 70, 21, 70, 22, 86, 10, 82, 2, 
+55, 78, 56, 56, 78, 53, 101, 21, 21, 89, 89, 25, 71, 26, 26, 71, 27, 91, 19, 69, 20, 
+64, 80, 80, 63, 63, 80, 64, 64, 80, 80, 63, 80, 64, 112, 32, 96, 40, 
+24, 70, 21, 21, 89, 89, 25, 71, 26, 26, 71, 27, 91, 27, 71, 26, 106, 10, 
+22, 70, 21, 21, 89, 89, 25, 71, 26, 26, 71, 27, 91, 91, 23, 70, 21, 70, 24, 88, 20, 100, 52, 
+57, 105, 41, 41, 75, 43, 107, 11, 11, 83, 15, 68, 68, 14, 110, 46, 
+64, 80, 80, 63, 63, 80, 64, 64, 80, 80, 63, 80, 64, 112, 32, 92, 20, 100, 52, 
+25, 89, 89, 21, 21, 85, 13, 68, 13, 109, 29, 
+64, 80, 80, 63, 63, 80, 64, 64, 80, 62, 110, 30, 94, 38, 102, 54, 
+44, 75, 41, 41, 75, 43, 107, 11, 11, 83, 15, 68, 16, 88, 20, 100, 52, 
+36, 100, 100, 4, 65, 1, 1, 97, 97, 33, 73, 36, 73, 33, 93, 25, 105, 41, 
+47, 76, 46, 110, 110, 14, 14, 68, 15, 83, 11, 11, 83, 15, 68, 68, 14, 68, 15, 83, 3, 
+39, 103, 55, 55, 78, 56, 56, 78, 53, 101, 21, 89, 29, 72, 31, 111, 15, 
+49, 97, 97, 1, 1, 65, 4, 100, 20, 88, 24, 104, 56, 
+14, 110, 110, 62, 80, 80, 64, 64, 80, 62, 110, 110, 14, 68, 15, 87, 19, 99, 35, 
+14, 110, 110, 62, 80, 64, 64, 112, 32, 32, 72, 30, 110, 30, 72, 32, 
+53, 78, 56, 56, 78, 55, 55, 78, 53, 101, 21, 89, 89, 25, 71, 26, 71, 27, 91, 23, 103, 7, 
+52, 100, 100, 36, 36, 73, 33, 97, 97, 1, 65, 3, 83, 15, 
+26, 71, 25, 89, 89, 29, 72, 32, 32, 72, 30, 110, 30, 94, 38, 
+34, 73, 36, 36, 100, 100, 4, 65, 1, 1, 97, 97, 33, 73, 36, 73, 35, 95, 31, 111, 63, 
+18, 69, 20, 100, 100, 36, 36, 73, 33, 97, 97, 1, 65, 4, 100, 20, 69, 17, 85, 21, 
+12, 67, 11, 11, 67, 10, 82, 14, 14, 68, 16, 112, 64, 64, 112, 32, 72, 29, 89, 21, 101, 53, 
+44, 75, 41, 41, 75, 43, 107, 11, 11, 67, 10, 82, 14, 14, 68, 15, 111, 47, 111, 15, 83, 7, 103, 55, 
+44, 75, 41, 41, 75, 43, 107, 11, 11, 67, 9, 85, 17, 97, 1, 65, 4, 84, 8, 
+22, 70, 24, 104, 56, 56, 78, 55, 55, 78, 56, 104, 40, 96, 36, 73, 33, 93, 25, 
+59, 79, 57, 105, 41, 41, 75, 44, 108, 28, 92, 32, 32, 72, 31, 111, 47, 76, 45, 109, 29, 93, 37, 
+61, 80, 64, 64, 112, 32, 32, 72, 31, 111, 47, 47, 76, 45, 109, 29, 93, 33, 97, 1, 65, 3, 83, 7, 103, 55, 
+48, 76, 47, 47, 111, 15, 83, 7, 103, 55, 55, 78, 56, 78, 53, 101, 21, 85, 17, 
+24, 104, 56, 56, 78, 55, 55, 103, 39, 95, 31, 111, 47, 47, 76, 45, 109, 13, 81, 9, 105, 41, 41, 105, 9, 81, 1, 65, 3, 83, 11, 107, 43, 
+6, 66, 5, 81, 9, 105, 41, 41, 75, 44, 108, 28, 92, 32, 32, 72, 29, 93, 33, 97, 97, 33, 73, 36, 36, 96, 40, 104, 56, 78, 53, 101, 21, 85, 9, 105, 41, 
+24, 70, 23, 103, 55, 55, 103, 23, 87, 15, 68, 68, 16, 16, 68, 15, 15, 68, 13, 68, 15, 83, 7, 
+8, 66, 6, 82, 14, 14, 68, 16, 16, 68, 15, 15, 68, 13, 13, 68, 16, 68, 14, 110, 62, 
+48, 112, 16, 16, 68, 15, 15, 68, 13, 13, 68, 14, 110, 110, 62, 80, 63, 111, 31, 91, 23, 103, 55, 
+15, 68, 16, 16, 68, 13, 13, 68, 15, 87, 23, 
+12, 67, 10, 10, 67, 11, 83, 15, 111, 63, 63, 80, 62, 62, 80, 61, 61, 109, 29, 72, 30, 90, 26, 
+12, 67, 10, 10, 67, 9, 9, 67, 11, 107, 11, 67, 9, 
+42, 75, 43, 107, 107, 59, 59, 79, 60, 60, 79, 59, 107, 27, 71, 28, 96, 40, 
+23, 70, 24, 92, 92, 32, 72, 72, 29, 29, 72, 32, 92, 32, 72, 31, 111, 63, 
+60, 79, 59, 59, 107, 107, 11, 67, 10, 10, 67, 9, 67, 10, 106, 58, 
+35, 73, 73, 35, 95, 95, 39, 39, 74, 40, 74, 38, 102, 22, 90, 18, 
+function:1 node: 1 quantity: 3
+function:1 node: 9 quantity: 1
+function:1 node: 10 quantity: 1
+function:1 node: 11 quantity: 3
+function:1 node: 13 quantity: 2
+function:1 node: 14 quantity: 1
+function:1 node: 16 quantity: 2
+function:1 node: 21 quantity: 1
+function:1 node: 26 quantity: 1
+function:1 node: 32 quantity: 2
+function:1 node: 41 quantity: 2
+function:1 node: 47 quantity: 3
+function:1 node: 55 quantity: 1
+function:1 node: 56 quantity: 1
+function:1 node: 60 quantity: 1
+function:1 node: 63 quantity: 3
+function:1 node: 64 quantity: 1
+function:1 node: 68 quantity: 2
+function:1 node: 89 quantity: 1
+function:1 node: 91 quantity: 3
+function:1 node: 92 quantity: 1
+function:1 node: 95 quantity: 1
+function:1 node: 100 quantity: 2
+function:1 node: 107 quantity: 1
+function:1 node: 110 quantity: 1
+function:2 node: 1 quantity: 1
+function:2 node: 9 quantity: 1
+function:2 node: 11 quantity: 1
+function:2 node: 13 quantity: 2
+function:2 node: 14 quantity: 2
+function:2 node: 15 quantity: 2
+function:2 node: 21 quantity: 3
+function:2 node: 26 quantity: 1
+function:2 node: 32 quantity: 1
+function:2 node: 36 quantity: 1
+function:2 node: 55 quantity: 2
+function:2 node: 56 quantity: 3
+function:2 node: 61 quantity: 1
+function:2 node: 63 quantity: 1
+function:2 node: 64 quantity: 2
+function:2 node: 68 quantity: 1
+function:2 node: 73 quantity: 1
+function:2 node: 80 quantity: 2
+function:2 node: 89 quantity: 1
+function:2 node: 92 quantity: 1
+function:2 node: 100 quantity: 3
+function:2 node: 107 quantity: 1
+function:2 node: 110 quantity: 1
+function:3 node: 10 quantity: 1
+function:3 node: 14 quantity: 2
+function:3 node: 15 quantity: 1
+function:3 node: 16 quantity: 2
+function:3 node: 21 quantity: 1
+function:3 node: 26 quantity: 3
+function:3 node: 29 quantity: 1
+function:3 node: 32 quantity: 2
+function:3 node: 36 quantity: 5
+function:3 node: 41 quantity: 1
+function:3 node: 47 quantity: 1
+function:3 node: 55 quantity: 2
+function:3 node: 56 quantity: 1
+function:3 node: 62 quantity: 1
+function:3 node: 64 quantity: 2
+function:3 node: 68 quantity: 1
+function:3 node: 72 quantity: 1
+function:3 node: 80 quantity: 3
+function:3 node: 89 quantity: 1
+function:3 node: 91 quantity: 1
+function:3 node: 97 quantity: 3
+function:3 node: 110 quantity: 1
+function:4 node: 1 quantity: 1
+function:4 node: 11 quantity: 3
+function:4 node: 14 quantity: 2
+function:4 node: 21 quantity: 2
+function:4 node: 26 quantity: 1
+function:4 node: 29 quantity: 1
+function:4 node: 36 quantity: 2
+function:4 node: 40 quantity: 1
+function:4 node: 41 quantity: 2
+function:4 node: 56 quantity: 2
+function:4 node: 59 quantity: 1
+function:4 node: 63 quantity: 3
+function:4 node: 64 quantity: 2
+function:4 node: 68 quantity: 2
+function:4 node: 80 quantity: 1
+function:4 node: 89 quantity: 4
+function:4 node: 97 quantity: 3
+function:4 node: 100 quantity: 1
+function:4 node: 107 quantity: 1
+function:4 node: 110 quantity: 2
+function:5 node: 1 quantity: 1
+function:5 node: 10 quantity: 1
+function:5 node: 14 quantity: 1
+function:5 node: 15 quantity: 1
+function:5 node: 16 quantity: 1
+function:5 node: 21 quantity: 1
+function:5 node: 26 quantity: 1
+function:5 node: 32 quantity: 1
+function:5 node: 39 quantity: 1
+function:5 node: 41 quantity: 2
+function:5 node: 47 quantity: 1
+function:5 node: 55 quantity: 2
+function:5 node: 56 quantity: 1
+function:5 node: 59 quantity: 1
+function:5 node: 62 quantity: 1
+function:5 node: 64 quantity: 1
+function:5 node: 68 quantity: 1
+function:5 node: 80 quantity: 2
+function:5 node: 89 quantity: 2
+function:5 node: 91 quantity: 1
+function:5 node: 97 quantity: 3
+function:5 node: 100 quantity: 1
+function:5 node: 107 quantity: 1
+function:5 node: 110 quantity: 3
+cost for function:342.02000000000066
+Value solution: 1140.8843604008905
+Value bandwidth: 836.4400000000102
+Runtime (mS): 854

@@ -1,0 +1,72 @@
+function:1 node: 1 quantity: 2
+function:1 node: 2 quantity: 1
+function:1 node: 3 quantity: 2
+function:1 node: 4 quantity: 1
+function:1 node: 5 quantity: 1
+function:1 node: 7 quantity: 1
+function:1 node: 9 quantity: 1
+function:1 node: 11 quantity: 2
+function:1 node: 12 quantity: 1
+function:2 node: 1 quantity: 1
+function:2 node: 2 quantity: 2
+function:2 node: 3 quantity: 2
+function:2 node: 4 quantity: 1
+function:2 node: 5 quantity: 1
+function:2 node: 8 quantity: 1
+function:2 node: 11 quantity: 1
+function:2 node: 12 quantity: 1
+function:3 node: 1 quantity: 2
+function:3 node: 2 quantity: 1
+function:3 node: 3 quantity: 1
+function:3 node: 4 quantity: 1
+function:3 node: 6 quantity: 2
+function:3 node: 8 quantity: 2
+function:3 node: 10 quantity: 2
+function:3 node: 11 quantity: 2
+function:4 node: 1 quantity: 1
+function:4 node: 2 quantity: 2
+function:4 node: 3 quantity: 1
+function:4 node: 4 quantity: 2
+function:4 node: 5 quantity: 1
+function:4 node: 7 quantity: 1
+function:4 node: 9 quantity: 1
+function:4 node: 11 quantity: 1
+function:4 node: 12 quantity: 1
+function:5 node: 4 quantity: 2
+function:5 node: 5 quantity: 2
+function:5 node: 7 quantity: 3
+function:5 node: 9 quantity: 3
+function:5 node: 12 quantity: 2
+Cost for function: 141.75999999999996
+demand: 3
+[36, 20, 11, ], [11, 11, ], [11, 11, ], [11, 1, 7, 16, 27, ], 
+demand: 10
+[33, 19, 11, ], [11, 1, 5, ], [5, 5, ], [5, 5, ], [5, 14, 23, ], 
+demand: 15
+[36, 20, 11, ], [11, 1, ], [1, 5, ], [5, 13, 21, ], 
+demand: 8
+[25, 15, 8, ], [8, 3, ], [3, 3, ], [3, 3, ], [3, 12, ], [12, 3, 6, 14, 23, ], 
+demand: 11
+[22, 13, 5, 1, ], [1, 7, ], [7, 7, ], [7, 1, ], [1, 5, ], [5, 14, 24, ], 
+demand: 13
+[32, 18, 9, ], [9, 1, ], [1, 7, ], [7, 1, 5, 13, 21, ], 
+demand: 1
+[24, 14, 6, 4, ], [4, 4, ], [4, 4, ], [4, 4, ], [4, 10, 18, 32, ], 
+demand: 4
+[31, 18, 9, ], [9, 1, ], [1, 11, ], [11, 2, ], [2, 11, 20, 36, ], 
+demand: 6
+[27, 16, 8, ], [8, 3, ], [3, 3, ], [3, 12, ], [12, 3, 6, 13, 22, ], 
+demand: 7
+[24, 14, 5, 2, ], [2, 2, ], [2, 2, ], [2, 7, ], [7, 1, 5, 14, 23, ], 
+demand: 5
+[33, 19, 12, 4, ], [4, 6, ], [6, 4, ], [4, 12, ], [12, 20, 36, ], 
+demand: 12
+[24, 14, 5, 2, ], [2, 5, 13, 6, ], [6, 3, ], [3, 10, 17, 9, ], [9, 18, 31, ], 
+demand: 9
+[29, 17, 9, ], [9, 1, ], [1, 7, ], [7, 15, 8, 4, ], [4, 8, ], [8, 16, 27, ], 
+demand: 14
+[21, 13, 6, 3, 12, ], [12, 3, 10, ], [10, 17, 9, 2, ], [2, 11, 19, 33, ], 
+demand: 2
+[21, 13, 5, 1, 9, ], [9, 1, 11, 19, 12, ], [12, 3, 10, ], [10, 3, 12, 19, 34, ], 
+Value solution: 351.3611444741029
+Runtime (mS): 47Value Bandwidth: 222.19999999999962Resource ultilization: 2498630.150523399

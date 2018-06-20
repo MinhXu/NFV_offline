@@ -1,0 +1,91 @@
+function:1 node: 81 quantity: 1
+function:1 node: 82 quantity: 1
+function:1 node: 83 quantity: 1
+function:1 node: 87 quantity: 1
+function:1 node: 91 quantity: 1
+function:1 node: 92 quantity: 1
+function:1 node: 96 quantity: 1
+function:1 node: 97 quantity: 1
+function:1 node: 102 quantity: 1
+function:1 node: 105 quantity: 1
+function:1 node: 107 quantity: 1
+function:1 node: 111 quantity: 1
+function:1 node: 112 quantity: 1
+function:2 node: 84 quantity: 1
+function:2 node: 85 quantity: 1
+function:2 node: 88 quantity: 1
+function:2 node: 89 quantity: 1
+function:2 node: 90 quantity: 1
+function:2 node: 99 quantity: 1
+function:2 node: 101 quantity: 1
+function:2 node: 103 quantity: 1
+function:2 node: 104 quantity: 1
+function:2 node: 108 quantity: 1
+function:2 node: 110 quantity: 1
+function:3 node: 81 quantity: 1
+function:3 node: 86 quantity: 1
+function:3 node: 92 quantity: 1
+function:3 node: 93 quantity: 1
+function:3 node: 94 quantity: 1
+function:3 node: 95 quantity: 1
+function:3 node: 97 quantity: 1
+function:3 node: 98 quantity: 1
+function:3 node: 100 quantity: 1
+function:3 node: 106 quantity: 1
+function:3 node: 109 quantity: 1
+function:4 node: 85 quantity: 1
+function:4 node: 86 quantity: 1
+function:4 node: 89 quantity: 1
+function:4 node: 93 quantity: 1
+function:4 node: 94 quantity: 1
+function:4 node: 95 quantity: 1
+function:4 node: 98 quantity: 1
+function:4 node: 99 quantity: 1
+function:4 node: 100 quantity: 1
+function:4 node: 106 quantity: 1
+function:4 node: 108 quantity: 1
+function:4 node: 109 quantity: 1
+function:4 node: 110 quantity: 1
+function:5 node: 84 quantity: 1
+function:5 node: 87 quantity: 1
+function:5 node: 88 quantity: 1
+function:5 node: 90 quantity: 1
+function:5 node: 101 quantity: 1
+function:5 node: 102 quantity: 1
+function:5 node: 103 quantity: 1
+function:5 node: 104 quantity: 1
+function:5 node: 105 quantity: 1
+function:5 node: 107 quantity: 1
+Cost for function: 105.97000000000004
+demand: 3
+[31, 95, ], [95, 39, 103, ], [103, 7, 83, ], [83, 15, 68, 13, 81, ], [81, 9, 67, 12, ], 
+demand: 5
+[20, 88, ], [88, 20, 92, ], [92, 92, ], [92, 24, 70, 22, 102, 6, ], 
+demand: 7
+[64, 80, 61, 109, ], [109, 13, 68, 16, 84, ], [84, 4, 100, ], [100, 36, 96, ], [96, 40, 104, ], [104, 24, 70, 22, 86, 10, ], 
+demand: 9
+[16, 68, 13, 85, ], [85, 17, 97, ], [97, 17, 69, 19, 87, ], [87, 23, 70, 24, 104, 56, ], 
+demand: 11
+[37, 93, ], [93, 37, 101, ], [101, 101, ], [101, 5, 81, ], [81, 13, 109, ], [109, 45, 76, 46, ], 
+demand: 13
+[45, 76, 48, 112, 16, 88, ], [88, 12, 84, ], [84, 16, 112, ], [112, 16, 68, 14, 82, 2, ], 
+demand: 4
+[39, 74, 38, 102, ], [102, 22, 86, ], [86, 86, ], [86, 22, 70, 21, 101, 37, ], 
+demand: 12
+[39, 74, 37, 93, ], [93, 33, 97, ], [97, 17, 69, 18, 90, ], [90, 90, ], [90, 22, 70, 24, 104, 40, ], 
+demand: 15
+[33, 73, 35, 99, ], [99, 99, ], [99, 19, 87, ], [87, 11, 107, ], [107, 11, 83, 15, ], 
+demand: 10
+[47, 76, 46, 110, ], [110, 14, 82, ], [82, 14, 110, ], [110, 62, 80, 64, ], 
+demand: 6
+[52, 77, 50, 98, ], [98, 18, 69, 17, 85, ], [85, 9, 105, ], [105, 105, ], [105, 25, 71, 26, 94, ], [94, 26, 71, 27, ], 
+demand: 14
+[17, 69, 18, 86, 22, 102, ], [102, 38, 74, 39, 95, ], [95, 31, 72, 29, 89, ], [89, 17, 69, 19, 99, 35, ], 
+demand: 2
+[38, 94, 34, 98, ], [98, 34, 94, ], [94, 26, 71, 27, 91, ], [91, 23, 103, ], [103, 23, 70, 21, 89, 25, ], 
+demand: 8
+[25, 71, 26, 106, ], [106, 106, ], [106, 42, 75, 43, 107, ], [107, 27, 71, 25, 89, ], [89, 17, 69, 19, 99, 3, ], 
+demand: 1
+[25, 71, 28, 96, 40, 104, ], [104, 40, 96, 28, 108, ], [108, 12, 84, 4, 100, ], [100, 36, 96, 28, 108, ], [108, 12, 67, 11, 83, 15, 111, ], [111, 31, 72, 32, 96, 28, ], 
+Value solution: 430.2499999999997
+Runtime (mS): 299Value Bandwidth: 324.2799999999994Resource ultilization: 9461539.96427536

@@ -1,0 +1,8 @@
+2.0Gurobi_out3.txt 5 3 6 14 43.93403587056353 0
+2.0Gurobi_out1.txt 5 3 6 14 32.21058382225079 0
+2.0Gurobi_out5.txt 6 3 8 27 36.86408369444475 0
+2.0Gurobi_out6.txt 6 3 8 27 0.0 0
+2.0Gurobi_out2.txt 5 3 6 14 39.281860357046966 0
+2.0Gurobi_out4.txt 5 3 6 14 0.0 0
+2.0Gurobi_out8.txt 6 3 8 27 0.0 0
+2.0Gurobi_out7.txt 6 3 8 27 0.0 0

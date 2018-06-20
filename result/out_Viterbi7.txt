@@ -1,0 +1,131 @@
+45, 76, 47, 47, 76, 46, 110, 110, 14, 14, 68, 68, 14, 110, 14, 68, 15, 83, 11, 
+38, 94, 26, 26, 71, 27, 91, 91, 23, 70, 21, 70, 24, 88, 20, 100, 36, 
+13, 68, 68, 14, 14, 110, 110, 14, 68, 68, 14, 86, 22, 102, 38, 
+24, 70, 21, 21, 89, 89, 25, 71, 26, 71, 25, 93, 33, 97, 1, 
+9, 67, 11, 11, 83, 15, 68, 68, 14, 68, 16, 112, 64, 
+64, 80, 80, 63, 63, 80, 64, 80, 63, 111, 15, 
+60, 79, 59, 107, 11, 11, 83, 15, 68, 68, 14, 14, 110, 30, 
+12, 67, 11, 11, 83, 15, 68, 68, 14, 14, 110, 110, 14, 68, 14, 86, 22, 
+51, 77, 52, 100, 100, 36, 36, 73, 33, 97, 97, 1, 1, 65, 4, 100, 20, 69, 18, 86, 10, 
+48, 76, 47, 47, 76, 46, 110, 110, 14, 68, 16, 84, 12, 108, 60, 
+25, 71, 26, 26, 71, 27, 91, 91, 23, 70, 21, 21, 89, 89, 25, 71, 26, 71, 27, 91, 31, 111, 47, 
+53, 78, 56, 56, 78, 55, 55, 78, 53, 101, 21, 70, 24, 92, 28, 
+2, 65, 1, 1, 97, 97, 33, 73, 36, 73, 33, 97, 1, 81, 5, 
+29, 72, 32, 32, 72, 31, 91, 91, 23, 70, 21, 70, 22, 86, 14, 110, 46, 
+60, 79, 59, 107, 11, 11, 83, 15, 68, 68, 16, 112, 64, 80, 61, 109, 29, 93, 37, 
+39, 103, 55, 55, 78, 56, 56, 78, 53, 101, 21, 21, 89, 89, 25, 71, 26, 71, 25, 89, 29, 109, 13, 
+18, 69, 19, 91, 91, 27, 71, 26, 26, 71, 25, 89, 89, 29, 72, 32, 72, 30, 90, 26, 
+47, 111, 63, 63, 80, 80, 64, 64, 80, 63, 80, 64, 112, 32, 92, 24, 
+64, 80, 80, 63, 63, 80, 64, 64, 80, 80, 63, 111, 31, 95, 39, 
+36, 100, 100, 4, 65, 1, 1, 97, 33, 73, 36, 96, 28, 
+43, 75, 41, 41, 75, 43, 107, 11, 11, 67, 10, 106, 26, 26, 71, 27, 91, 91, 31, 72, 32, 72, 29, 93, 33, 
+28, 71, 26, 26, 71, 27, 91, 91, 31, 72, 32, 32, 72, 29, 89, 25, 71, 26, 106, 10, 
+37, 74, 40, 104, 56, 56, 78, 55, 55, 78, 53, 101, 21, 89, 89, 29, 72, 32, 72, 30, 94, 34, 98, 2, 
+16, 112, 64, 64, 80, 80, 63, 63, 80, 64, 80, 63, 111, 15, 83, 3, 
+49, 97, 97, 1, 1, 65, 4, 100, 20, 69, 18, 86, 10, 
+5, 81, 1, 1, 97, 97, 33, 73, 36, 36, 100, 20, 69, 18, 86, 14, 
+44, 75, 41, 41, 75, 43, 107, 11, 11, 67, 10, 106, 26, 26, 71, 27, 91, 91, 31, 72, 32, 112, 64, 
+23, 87, 11, 11, 67, 9, 105, 41, 41, 75, 43, 107, 27, 91, 91, 19, 69, 20, 100, 20, 69, 19, 87, 11, 107, 59, 
+5, 66, 8, 104, 56, 56, 78, 55, 55, 78, 56, 104, 40, 96, 36, 
+24, 104, 56, 56, 78, 55, 55, 78, 56, 104, 40, 96, 36, 36, 100, 4, 65, 3, 83, 7, 
+31, 111, 63, 63, 80, 80, 63, 111, 47, 76, 48, 112, 32, 92, 20, 100, 52, 
+13, 68, 15, 111, 47, 47, 111, 63, 63, 80, 80, 63, 111, 47, 47, 76, 48, 112, 32, 96, 36, 73, 33, 93, 25, 105, 41, 
+20, 69, 17, 97, 97, 1, 1, 65, 4, 100, 36, 96, 28, 
+62, 80, 63, 111, 47, 47, 111, 15, 83, 7, 103, 55, 55, 78, 56, 104, 40, 96, 36, 36, 96, 32, 72, 29, 93, 33, 97, 1, 
+2, 65, 1, 81, 9, 105, 41, 41, 75, 43, 107, 27, 91, 31, 111, 47, 47, 111, 63, 63, 111, 15, 83, 7, 103, 55, 103, 39, 95, 35, 99, 51, 
+27, 71, 25, 105, 41, 41, 75, 42, 42, 75, 44, 108, 28, 92, 24, 104, 56, 56, 78, 53, 101, 21, 85, 9, 105, 41, 41, 75, 42, 75, 44, 108, 12, 84, 4, 
+7, 66, 8, 8, 84, 84, 16, 68, 15, 87, 19, 99, 35, 
+21, 70, 24, 92, 92, 32, 112, 64, 80, 80, 62, 62, 80, 61, 80, 63, 111, 15, 83, 3, 
+7, 66, 8, 8, 84, 84, 16, 68, 13, 81, 9, 105, 41, 
+64, 80, 62, 62, 80, 61, 61, 109, 29, 29, 89, 25, 105, 41, 41, 75, 42, 75, 44, 108, 12, 84, 4, 
+function:1 node: 1 quantity: 2
+function:1 node: 8 quantity: 2
+function:1 node: 11 quantity: 1
+function:1 node: 14 quantity: 1
+function:1 node: 21 quantity: 2
+function:1 node: 32 quantity: 2
+function:1 node: 36 quantity: 1
+function:1 node: 41 quantity: 1
+function:1 node: 42 quantity: 1
+function:1 node: 47 quantity: 2
+function:1 node: 55 quantity: 1
+function:1 node: 56 quantity: 3
+function:1 node: 61 quantity: 1
+function:1 node: 64 quantity: 2
+function:1 node: 68 quantity: 2
+function:1 node: 80 quantity: 1
+function:1 node: 89 quantity: 3
+function:1 node: 91 quantity: 1
+function:1 node: 97 quantity: 2
+function:1 node: 110 quantity: 2
+function:2 node: 14 quantity: 3
+function:2 node: 21 quantity: 1
+function:2 node: 26 quantity: 3
+function:2 node: 32 quantity: 2
+function:2 node: 36 quantity: 2
+function:2 node: 47 quantity: 1
+function:2 node: 55 quantity: 1
+function:2 node: 56 quantity: 2
+function:2 node: 61 quantity: 1
+function:2 node: 62 quantity: 1
+function:2 node: 64 quantity: 1
+function:2 node: 68 quantity: 1
+function:2 node: 80 quantity: 4
+function:2 node: 84 quantity: 1
+function:2 node: 91 quantity: 1
+function:2 node: 97 quantity: 3
+function:2 node: 100 quantity: 3
+function:2 node: 110 quantity: 1
+function:3 node: 1 quantity: 2
+function:3 node: 11 quantity: 3
+function:3 node: 14 quantity: 1
+function:3 node: 16 quantity: 2
+function:3 node: 21 quantity: 1
+function:3 node: 26 quantity: 2
+function:3 node: 29 quantity: 1
+function:3 node: 32 quantity: 1
+function:3 node: 36 quantity: 3
+function:3 node: 41 quantity: 4
+function:3 node: 47 quantity: 2
+function:3 node: 55 quantity: 2
+function:3 node: 62 quantity: 1
+function:3 node: 63 quantity: 3
+function:3 node: 68 quantity: 1
+function:3 node: 80 quantity: 1
+function:3 node: 89 quantity: 1
+function:3 node: 91 quantity: 1
+function:3 node: 97 quantity: 1
+function:3 node: 100 quantity: 2
+function:4 node: 1 quantity: 1
+function:4 node: 11 quantity: 1
+function:4 node: 26 quantity: 2
+function:4 node: 32 quantity: 2
+function:4 node: 36 quantity: 1
+function:4 node: 41 quantity: 2
+function:4 node: 47 quantity: 2
+function:4 node: 55 quantity: 1
+function:4 node: 56 quantity: 1
+function:4 node: 63 quantity: 3
+function:4 node: 68 quantity: 4
+function:4 node: 80 quantity: 2
+function:4 node: 89 quantity: 2
+function:4 node: 91 quantity: 2
+function:4 node: 100 quantity: 1
+function:5 node: 1 quantity: 1
+function:5 node: 11 quantity: 2
+function:5 node: 14 quantity: 2
+function:5 node: 21 quantity: 2
+function:5 node: 26 quantity: 2
+function:5 node: 42 quantity: 2
+function:5 node: 55 quantity: 2
+function:5 node: 63 quantity: 3
+function:5 node: 64 quantity: 3
+function:5 node: 84 quantity: 1
+function:5 node: 91 quantity: 3
+function:5 node: 92 quantity: 1
+function:5 node: 100 quantity: 2
+function:5 node: 110 quantity: 3
+cost for function:276.7800000000004
+Value solution: 1016.2046312662279
+Value bandwidth: 776.6000000000078
+Runtime (mS): 888

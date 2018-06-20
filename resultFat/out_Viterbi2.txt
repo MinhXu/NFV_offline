@@ -1,0 +1,63 @@
+24, 14, 5, 1, 11, 19, 19, 12, 3, 8, 16, 27, 27, 16, 16, 7, 1, 11, 19, 11, 1, 9, 18, 32, 
+21, 13, 5, 1, 11, 19, 19, 12, 3, 8, 16, 27, 27, 16, 7, 1, 11, 19, 34, 
+36, 20, 11, 19, 19, 12, 3, 8, 16, 27, 27, 16, 27, 
+31, 18, 9, 1, 7, 7, 16, 16, 27, 27, 16, 7, 1, 11, 20, 36, 
+33, 19, 19, 11, 20, 20, 11, 1, 7, 7, 16, 7, 1, 11, 20, 36, 
+27, 16, 7, 7, 1, 11, 20, 20, 12, 3, 6, 13, 13, 22, 
+24, 14, 5, 13, 13, 22, 22, 13, 5, 1, 11, 20, 20, 11, 1, 7, 1, 5, 14, 23, 
+25, 15, 8, 3, 6, 13, 13, 22, 22, 13, 5, 1, 7, 7, 1, 11, 20, 20, 12, 3, 6, 13, 5, 14, 23, 
+29, 17, 9, 1, 11, 20, 20, 12, 3, 6, 13, 13, 22, 22, 13, 21, 21, 13, 5, 14, 23, 14, 6, 3, 8, 16, 27, 
+33, 19, 12, 3, 6, 13, 22, 22, 13, 21, 21, 13, 5, 14, 23, 23, 14, 5, 1, 9, 1, 5, 14, 23, 
+22, 13, 21, 21, 13, 5, 14, 23, 23, 14, 5, 1, 9, 9, 1, 5, 13, 21, 21, 13, 5, 14, 23, 14, 24, 
+24, 14, 23, 23, 14, 5, 13, 21, 21, 13, 5, 1, 9, 9, 1, 7, 15, 25, 15, 8, 3, 10, 18, 31, 
+32, 18, 9, 9, 1, 7, 15, 25, 25, 15, 8, 3, 6, 13, 21, 
+21, 13, 5, 1, 9, 9, 1, 7, 15, 25, 25, 15, 8, 4, 12, 19, 33, 
+36, 20, 12, 3, 8, 15, 25, 25, 15, 8, 4, 4, 12, 20, 36, 20, 12, 3, 6, 13, 21, 
+function:1 node: 4 quantity: 1
+function:1 node: 9 quantity: 2
+function:1 node: 13 quantity: 2
+function:1 node: 16 quantity: 2
+function:1 node: 19 quantity: 1
+function:1 node: 22 quantity: 1
+function:1 node: 23 quantity: 1
+function:1 node: 25 quantity: 1
+function:1 node: 27 quantity: 1
+function:2 node: 4 quantity: 1
+function:2 node: 7 quantity: 1
+function:2 node: 9 quantity: 2
+function:2 node: 13 quantity: 1
+function:2 node: 20 quantity: 2
+function:2 node: 21 quantity: 1
+function:2 node: 22 quantity: 1
+function:2 node: 23 quantity: 1
+function:3 node: 7 quantity: 2
+function:3 node: 16 quantity: 2
+function:3 node: 19 quantity: 1
+function:3 node: 20 quantity: 1
+function:3 node: 21 quantity: 2
+function:3 node: 22 quantity: 1
+function:3 node: 23 quantity: 1
+function:3 node: 25 quantity: 2
+function:3 node: 27 quantity: 1
+function:4 node: 7 quantity: 2
+function:4 node: 9 quantity: 1
+function:4 node: 13 quantity: 1
+function:4 node: 16 quantity: 1
+function:4 node: 20 quantity: 1
+function:4 node: 21 quantity: 1
+function:4 node: 22 quantity: 1
+function:4 node: 23 quantity: 1
+function:4 node: 27 quantity: 2
+function:5 node: 7 quantity: 1
+function:5 node: 13 quantity: 1
+function:5 node: 19 quantity: 3
+function:5 node: 20 quantity: 1
+function:5 node: 21 quantity: 2
+function:5 node: 22 quantity: 1
+function:5 node: 23 quantity: 1
+function:5 node: 25 quantity: 1
+function:5 node: 36 quantity: 1
+cost for function:33.480000000000025
+Value solution: 423.81415917071575
+Value bandwidth: 381.91999999999973
+Runtime (mS): 95
